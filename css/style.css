@@ -1,0 +1,10 @@
+.efectoimg:hover{
+    filter: opacity(50%);
+    transform: 100ms;
+}
+.parrafo{
+    font-size: medium;
+}
+.parrafo2{
+    font-size: large;
+}
